@@ -17,3 +17,7 @@
 * `git branch branchname` create local branch
 * `git checkout branchname` move to local branch 
 
+## remote commands
+* `git remote add remName remoteUrl` -connect  local repo to remote repo
+* `git push remName branchname` - push local commits to remote branch
+
