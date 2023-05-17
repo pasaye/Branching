@@ -11,3 +11,8 @@
 * `git status` show commit status of local folder
 * `git branch -m main` change name of git branch
 * `git log --oneline` list commit history in compact format
+
+## Branch Commands
+* `git branch *` current info of branch
+* `git branch branchname` create local branch
+* `git checkout branchname` move to local branch 
